@@ -45,7 +45,7 @@ A basic, responsive recipe website built entirely with semantic HTML. This proje
     ```bash
     cd Odin-recipes
     ```
-3.  Open `index.html` in any web browser to view the site.
+3.  Open `https://strangerboy00.github.io/Odin-recipes/` in any web browser to view the site.
 
 ## 📄 License
 
